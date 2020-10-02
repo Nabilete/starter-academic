@@ -37,7 +37,7 @@ date_format = "March 2013"
   company_url = "https://www.testsandtrials.com/"
   location = "Monzón, Spain"
   date_start = "2020-01-08"
-  date_end = "Present"
+  date_end = ""
   description = """Research managment"""
 
 +++
