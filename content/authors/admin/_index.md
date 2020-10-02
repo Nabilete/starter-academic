@@ -32,7 +32,7 @@ education:
     year: 2020
   - course: MSc in Bioinformatics and Biostatistics
     institution: Universitat Oberta de Catalunya, Spain.
-    year: Present
+    year: 2021
   - course: Msc in Animal Nutrition 
     institution: Zaragoza University, Spain
     year: 2015
