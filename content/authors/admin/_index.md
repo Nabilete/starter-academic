@@ -33,12 +33,12 @@ education:
   - course: MSc in Bioinformatics and Biostatistics
     institution: Universitat Oberta de Catalunya, Spain.
     year: Present
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Msc in Animal Nutrition 
+    institution: Zaragoza University, Spain
+    year: 2015
+  - course: Doctor in Veterinary Medecine
+    institution: École Nationale Supérieure Vétérinaire d'Alger, Algeria. 
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
