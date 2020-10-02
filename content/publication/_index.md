@@ -14,8 +14,6 @@ header:
   image: ""
 ---
 **[Lactational Responses of Heat-Stressed Dairy Goats to Dietary L-Carnitine Supplementation](https://www.mdpi.com/2076-2615/9/8/567)**
-
-by _Nabil Mehaba,Ahmed A. K. Salama,Xavier Such,Elena Albanell and Gerardo Caja_
+by _Nabil Mehaba, Ahmed A. K. Salama, Xavier Such, Elena Albanell and Gerardo Caja_
 Ruminant Research Group (G2R), Animal and Food Science Department, Universitat Autònoma de Barcelona, Bellaterra, 08193 Barcelona, Spain
-
 Animals 2019, 9(8), 567; https://doi.org/10.3390/ani9080567
