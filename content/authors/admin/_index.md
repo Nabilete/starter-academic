@@ -27,12 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: PhD in Animal Production
+    institution: Autonomous University of Barcelona, Spain.
+    year: 2020
+  - course: MSc in Bioinformatics and Biostatistics
+    institution: Universitat Oberta de Catalunya, Spain.
+    year: Present
+  - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
-    year: 2009
+    year: 2008
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
