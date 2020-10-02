@@ -32,12 +32,12 @@ date_format = "March 2013"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Research Manager / Clinical Data Analyst"
+  company = "Tests and Trials Ltd."
+  company_url = "https://www.testsandtrials.com/"
+  location = "Monzón, Spain"
+  date_start = "2020-01-08"
+  date_end = "Present"
+  description = """Research managment"""
 
 +++
