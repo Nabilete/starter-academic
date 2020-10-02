@@ -73,6 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Nabil Mehaba is a researcher of Tests and Trials Ltd. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Born in Tazmalt (Bejaia, Algeria), is a Veterinarian, Msc in Animal  Nutrition and Ph.D. in Animal Production at the Univ. Autonoma of Barcelona (UAB, Spain). Graduated as Veterinarian at the École Nationale Supérieure Vétérinaire d'Alger (ENSV, Algeria), he earned a MSc fellowship from the International Centre for Advanced Mediterranean Agronomic Studies (CIHEAM, Spain, 2013-2015) and obtained a joint Msc in Animal Nutrition at the CIHEAM-Universidad de Zaragoza. Thanks to a grant from the Catalan Agency for Management of University and Research Grants (AGAUR 2016-2019) he followed a Ph.D. course in Animal production. Currently, he works as Research manager/Clinical data analyst at Tests and Trials Ltd. Meanwhile, he is finishing his MSc thesis of a joint Msc degree in Bioinformatics and Biostatistics from Universitat Oberta de Catalunya and University of Barcelona.
