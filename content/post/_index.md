@@ -8,7 +8,7 @@ title: Posts
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header:
-  caption: "profile picture"
-  image: "avatar.jpg"
+header: Life is too short 
+  caption: ""
+  image: ""
 ---
