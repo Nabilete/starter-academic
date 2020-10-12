@@ -4,7 +4,7 @@ title: Nabil Mehaba
 
 # Username (this should match the folder name)
 authors:
-- admin
+- Nabil Mehaba
 
 # Is this the primary user of the site?
 superuser: true
